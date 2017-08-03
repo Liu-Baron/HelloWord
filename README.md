@@ -1,1 +1,2 @@
 # HelloWord
+这是我提交到github测试用的demo项目，demo中用到了java的注解和动态代理，并结合到一起使用
